@@ -6,7 +6,7 @@ group: navigation
 ---
 {% include JB/setup %}
 
-[Latest CV](Shiya_Song_CV_2019.pdf)
+[Latest CV](Shiya_Song_CV_2022.pdf)
 
 ### Summary
 I’m a passionate and experienced computational biologist specialized in biomarker analysis for clinical trial development, biomarker and clinical data standardization, harmonization, ML/AI algorithm development for prediction of various clinical endpoints and interactive app development for analysis and visualization. I’m skilled in bioinformatics, statistical analysis, immuno-oncology, machine learning and deep learning and have successfully applied my skills in a cross-functional industry team.
