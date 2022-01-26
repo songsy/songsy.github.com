@@ -9,7 +9,7 @@ group: navigation
 [Latest CV](Shiya_Song_CV_2019.pdf)
 
 ### Summary
-I’m a passionate and experienced senior genomics data scientist specialized in algorithmic development for DNA related product. I develop statistical algorithms to interpret millions of genotypes and pedigrees and provide new genomic discoveries for consumers. I’m skilled in population & statistical genetics, next generation sequencing analysis, statistical inference, machine learning and deep learning and have successfully applied my skills in a cross-functional industry team to help deliver consumer value.
+I’m a passionate and experienced computational biologist specialized in biomarker analysis for clinical trial development, biomarker and clinical data standardization, harmonization, ML/AI algorithm development for prediction of various clinical endpoints and interactive app development for analysis and visualization. I’m skilled in bioinformatics, statistical analysis, immuno-oncology, machine learning and deep learning and have successfully applied my skills in a cross-functional industry team.
 
 ### Education
 * Ph.D in Bioinformatics & Master in Statistics, University of Michigan, 2012-2016
@@ -18,7 +18,11 @@ I’m a passionate and experienced senior genomics data scientist specialized in
 * B.S in Life Science, Peking University, 2008-2012
 
 ### Experience
-* Genomics Data Scientist (Senior Staff), Ancestry.com, Aug 2016 - Present
+* Sr Scientist Computational Biology, Dept of Clinical Biomarker and Diagnostic in Precision Medicine, Amgen Inc, Apr 2020 - Present
+  * Lead a team of 3 scientists (serve as people manager and individual contributor)and 2 functional service providers to build biomarker platform which includes 1) building automatic data ingestion pipeline to standardize and harmonize biomarker and clinical data, 2)building automatic analysis pipeline to find associated analytes regards to various clinical endpoints and perform predictive analytics/modeling 3) building an interactive web application for analysis and visualization
+  * Perform biomarker analysis in support of immuno-oncology clinical programs, especially BiTE pipelines
+ 
+* Genomics Data Scientist (Senior Staff), Ancestry.com, Aug 2016 - Apr 2020
   * Project lead on ancestry inference algorithm and reference panel development
   * Provide scientific support to product, UX and engineering teams for DNA origin story, DNA circle and Thrulines product lines 
   * Wrote two white papers, co-authored one journal publication and filed 4 non-provisional patents as lead inventor
@@ -46,6 +50,8 @@ I’m a passionate and experienced senior genomics data scientist specialized in
 * Completion of deeplearning.ai [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/BQW5RCM2X3YJ)
 
 ### Publications: [google scholar](https://scholar.google.com/citations?hl=en&user=C5SDwxkAAAAJ&view_op=list_works&sortby=pubdate)
+* Wang, Yong, <b>Shiya Song</b>, Joshua G. Schraiber, Alisa Sedghifar, Jake K. Byrnes, David A. Turissini, Eurie L. Hong, Catherine A. Ball, and Keith Noto. Ancestry inference using reference labeled clusters of haplotypes. BMC bioinformatics 22, no. 1 (2021): 1-14.
+* Hateley, Shannon, Angelica Lopez-Izquierdo, Chuanchau J. Jou, Scott Cho, Joshua G. Schraiber, <b>Shiya Song</b>, Colin T. Maguire et al. "The history and geographic distribution of a KCNQ1 atrial fibrillation risk allele." Nature communications 12, no. 1 (2021): 1-10.
 * Yu, He, <b>Shiya Song</b>, Jiazi Liu, Sheng Li, Lu Zhang, Dajun Wang, and Shu-Jin Luo. Effects of the Qinghai- Tibet Railway on the Landscape Genetics of the Endangered Przewalskis Gazelle (Procapra przewalskii). Scientific reports 7, no. 1 (2017): 17983.
 * Laura R. Botigue*, <b>Shiya Song</b>*, Amelie Scheu*, Shyamalika Gopalan, Amanda L. Pendleton, Matthew Oetjens, Angela Taravella, Timo Seregely, Andrea Zeeb-Lanz, Rose- Marie Arbogast, Dean Bobo, Kevin Daly, Martina Unterlander, Joachim Burger, Jeffrey M. Kidd, Krishna R. Veeramah. (2017). Ancient European dog genomes reveal continuity since the Early Neolithic. Nature Communications, 8. (*authors contributed equally)
 * Eunjung Han, Peter Carbonetto, Ross E. Curtis, Yong Wang, Julie M. Granka, Jake Byrnes, Keith Noto, Amir R. Kermany, Natalie M. Myres, Mathew J. Barber, Kristin Rand, <b>Shiya Song</b>, Theodore Roman, Erin Battat, Kenneth G. Chahine, Catherine A. Ball. (2017). Clustering of 770,000 genomes reveals post-colonial population structure of North America. Nature Communications, 8, 14238.
